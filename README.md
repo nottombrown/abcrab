@@ -58,10 +58,8 @@ TODO: Instructions for if it is not activated
 
 ## Supported Ruby Platforms
 
-- 1.8.7
 - 1.9.2
 - 1.9.3
-- JRuby 1.8 Mode
 
 ## Collaborators and Maintainers
 
