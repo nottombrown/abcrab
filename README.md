@@ -3,8 +3,9 @@
 ## Table of Contents
 
 - [What does this Gem do?] (#what-does-this-gem-do)
+- [Who should use this Gem?] (#who-should-use-this-gem)
 - [What is Mixpanel] (#what-is-mixpanel)
-- [What is hstore] (#what-is-mixpanel)
+- [What is hstore] (#what-is-hstore)
 - [Install] (#install)
   - [Hstore] (#hstore) 
   - [Models] (#models) 
@@ -20,6 +21,12 @@
 
 This gem assumes that you are familiar with Mixpanel and are comfortable with tracking events from your server.
 
+## Who should use this Gem?
+
+You should use this gem if you have 
+
+
+If you do not need to track subsequent events and 
 
 ## What is Mixpanel
 
@@ -59,4 +66,4 @@ TODO: Instructions for if it is not activated
 ## Collaborators and Maintainers
 
 * [Tom Brown](https://github.com/nottombrown)
-* [Yazad Daruvala](https://github.com/yazad)
+* [Yazad Daruvala](https://github.com/yazaddaruvala)
